@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm Prajna Nayak</h1>
-<h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
-<p align="center">
-  • <a href="mailto:prajna1909@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/prajna-nayak/">LinkedIn</a> •
-  <a href="https://www.instagram.com/prajna_.09">Instagram</a> •
-</p>
----
-### 📊 GitHub Stats
+# Hi there 👋, I'm Prajna Nayak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prajna-bot&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+🎓 Computer Science Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
 ---
 
-### 🌐 Connect with Me
+## 👩‍💻 About Me
+- 🎓 Pursuing Computer Science Engineering  
+- 💡 Interested in Backend Development & API Design  
+- 🔧 Currently working on real-world projects (Java, Spring Boot, APIs)  
+- 📚 Learning and improving Data Structures & Algorithms  
+- 🌱 Exploring AI-powered solutions for real-world problems  
 
-<p align="left">
-<a href="https://linkedin.com/in/prajna-nayak">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/prajna_.09">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-&nbsp;&nbsp;
-</p>
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Java, Python, SQL  
+- ⚙️ Backend: Spring Boot, Flask  
+- 🌐 Web: HTML, CSS, JavaScript  
+- 🗄️ Database: MySQL, SQLite  
+- 🔧 Tools: Git, GitHub, Postman  
+
+---
+
+## 📌 Projects
+### 🔹 AI-Powered Retail Insights
+- Helps small retailers with demand forecasting & inventory management  
+- Uses AI models for better decision-making  
+
+### 🔹 CampusClaim (Lost & Found Portal)
+- JavaFX-based application  
+- Features: item reporting, image upload, auto-matching  
+
+### 🔹 Pet Vaccination Tracker
+- Java CRUD application  
+- Helps manage and track vaccination records  
+
+---
+
+
+## 📈 GitHub Stats
+
+![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajna-bot&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prajna-bot&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajna-bot&layout=compact&theme=radical)
+
+---
+
+## 📈 What I'm Working On
+- 🔹 Backend API development  
+- 🔹 System design fundamentals  
+- 🔹 Improving problem-solving skills  
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/prajna-nayak-551600339/  
+- 📧 Email: (add your email here)
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real-world tech solutions 🚀

@@ -57,7 +57,7 @@
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/prajna-nayak-551600339/  
-- 📧 Email: (add your email here)
+- 📧 Email: prajna1909@gmail.com
 
 ---
 
